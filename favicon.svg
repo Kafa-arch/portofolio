@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" shape-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="g" x1="7" y1="5" x2="42" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2463EB"/>
+      <stop offset="100%" stop-color="#7C3BED"/>
+    </linearGradient>
+  </defs>
+  <!-- Vertical stroke -->
+  <rect x="7" y="5" width="11" height="38" rx="1.5" fill="url(#g)"/>
+  <!-- Upper arm -->
+  <polygon points="18,14 18,25 42,6 42,15" fill="url(#g)"/>
+  <!-- Lower arm -->
+  <polygon points="18,25 18,36 42,43 42,34" fill="url(#g)"/>
+</svg>
